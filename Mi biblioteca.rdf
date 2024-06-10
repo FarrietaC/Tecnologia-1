@@ -1,0 +1,260 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="#item_1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0162-1459"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>EJD</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Nonfiction</dc:subject>
+        <dc:subject>Social sciences</dc:subject>
+        <dc:subject>Statistical methods</dc:subject>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Telegraphic Reviews</dc:subject>
+        <dc:title>Statistical Methods for the Social Sciences</dc:title>
+        <dcterms:abstract>&quot;Statistical Methods for the Social Sciences (3rd ed)&quot; by Alan Agresti and Barbara Finlay is reviewed.</dcterms:abstract>
+        <dc:date>1998</dc:date>
+        <dc:description>Place: Alexandria
+Publisher: Alexandria: American Statistical Association</dc:description>
+        <bib:pages>844-844</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0162-1459">
+        <prism:volume>93</prism:volume>
+        <dc:title>Journal of the American Statistical Association</dc:title>
+        <dc:identifier>DOI 10.2307/2670147</dc:identifier>
+        <prism:number>442</prism:number>
+        <dc:identifier>ISSN 0162-1459</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>93</prism:volume>
+                <dc:title>Journal of the American Statistical Association</dc:title>
+                <dc:identifier>DOI 10.2307/2670147</dc:identifier>
+                <prism:number>442</prism:number>
+                <dc:identifier>ISSN 0162-1459</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>EJD</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Nonfiction</dc:subject>
+        <dc:subject>Social sciences</dc:subject>
+        <dc:subject>Statistical methods</dc:subject>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Telegraphic Reviews</dc:subject>
+        <dc:title>Statistical Methods for the Social Sciences</dc:title>
+        <dcterms:abstract>&quot;Statistical Methods for the Social Sciences (3rd ed)&quot; by Alan Agresti and Barbara Finlay is reviewed.</dcterms:abstract>
+        <dc:date>1998</dc:date>
+        <dc:description>Place: Alexandria
+Publisher: Alexandria: American Statistical Association</dc:description>
+        <bib:pages>844-844</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_3">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>93</prism:volume>
+                <dc:title>Journal of the American Statistical Association</dc:title>
+                <dc:identifier>DOI 10.2307/2670147</dc:identifier>
+                <prism:number>442</prism:number>
+                <dc:identifier>ISSN 0162-1459</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>EJD</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Nonfiction</dc:subject>
+        <dc:subject>Social sciences</dc:subject>
+        <dc:subject>Statistical methods</dc:subject>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Telegraphic Reviews</dc:subject>
+        <dc:title>Statistical Methods for the Social Sciences</dc:title>
+        <dcterms:abstract>&quot;Statistical Methods for the Social Sciences (3rd ed)&quot; by Alan Agresti and Barbara Finlay is reviewed.</dcterms:abstract>
+        <dc:date>1998</dc:date>
+        <dc:description>Place: Alexandria
+Publisher: Alexandria: American Statistical Association</dc:description>
+        <bib:pages>844-844</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>28</prism:volume>
+                <dc:title>Acta universitaria</dc:title>
+                <prism:number>SPE</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vallejo Gutiérrez</foaf:surname>
+                        <foaf:givenName>J. R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villegas Barrientos</foaf:surname>
+                        <foaf:givenName>N. I</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Índice delictivo y su relación con densidad poblacional y el Índice de Desarrollo Humano en el Estado de Guanajuato</dc:title>
+        <dc:date>2018</dc:date>
+        <bib:pages>57-65</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>39</prism:volume>
+                <dc:title>Revista académica</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leveau</foaf:surname>
+                        <foaf:givenName>C. M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Diferencias socioespaciales entre homicidios y suicidios en Argentina, 1994-2014</dc:title>
+        <dc:date>2022</dc:date>
+        <bib:pages>1-22</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>16</prism:volume>
+                <dc:title>Revista académica</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sandovál</foaf:surname>
+                        <foaf:givenName>L. E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barón</foaf:surname>
+                        <foaf:givenName>D. M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>UNA REVISIÓN AL ESTUDIO DE LA DELINCUENCIA Y CRIMINALIDAD</dc:title>
+        <dc:date>2008</dc:date>
+        <bib:pages>105-117</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_7">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>30</prism:volume>
+                <dc:title>Revista académica</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ñuñez</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rivera</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villavicencio</foaf:surname>
+                        <foaf:givenName>X.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Molina</foaf:surname>
+                        <foaf:givenName>O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>DETERMINANTES SOCIOECONOMICOS Y DEMOGRAFICOS DEL CRIMEN EN CHILE EVIDENCIA DESDE UN PANEL DE DATOS DE LAS REGIONES CHILENAS</dc:title>
+        <dc:date>2003</dc:date>
+        <bib:pages>55-85</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>12</prism:volume>
+                <dc:title>Revista académica</dc:title>
+                <prism:number>24</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carrillo</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Determinantes económicos y sociológicos del crimen en Colombia</dc:title>
+        <dc:date>2019</dc:date>
+        <bib:pages>146-155</bib:pages>
+    </bib:Article>
+    <z:Collection rdf:about="#collection_3">
+        <dc:title>Primo_RIS_Export</dc:title>
+        <dcterms:hasPart rdf:resource="#item_3"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>Primo_RIS_Export (1)</dc:title>
+        <dcterms:hasPart rdf:resource="#item_1"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_2">
+        <dc:title>Primo_RIS_Export (1) 26/3/2024 10:03:13</dc:title>
+        <dcterms:hasPart rdf:resource="#item_2"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_4">
+        <dc:title>Solemne 3 - Tecnología</dc:title>
+        <dcterms:hasPart rdf:resource="#item_4"/>
+        <dcterms:hasPart rdf:resource="#item_5"/>
+        <dcterms:hasPart rdf:resource="#item_6"/>
+        <dcterms:hasPart rdf:resource="#item_7"/>
+        <dcterms:hasPart rdf:resource="#item_8"/>
+    </z:Collection>
+</rdf:RDF>
